@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLA_DMSO_HELLOWORLD", "HLA_DMSO_HELLOWORLD\HLA_DMSO_HELLOWORLD.vcxproj", "{679C21D2-6457-423F-8338-163FBFFA415D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679C21D2-6457-423F-8338-163FBFFA415D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{679C21D2-6457-423F-8338-163FBFFA415D}.Debug|Win32.Build.0 = Debug|Win32
+		{679C21D2-6457-423F-8338-163FBFFA415D}.Release|Win32.ActiveCfg = Release|Win32
+		{679C21D2-6457-423F-8338-163FBFFA415D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
